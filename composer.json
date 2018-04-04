@@ -16,7 +16,7 @@
     "autoload": {
         "psr-4": {
             "PropTypes\\": "src/",
-            "Volan\\Validator\\": "src/Volan/Validator/"
+            "Volan\\Validator\\": "src/Validator/"
         }
     }
 }

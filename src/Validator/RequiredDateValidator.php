@@ -1,5 +1,5 @@
 <?php
-namespace \Volan\Validator;
+namespace Volan\Validator;
 class RequiredDateValidator extends DateValidator
 {
 	/**
