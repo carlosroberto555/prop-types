@@ -1,0 +1,21 @@
+{
+    "name": "carlosroberto555/prop-types",
+    "description": "Lib for array types check",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Carlos Roberto",
+            "email": "carlosrpj555@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "serkin/volan": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "PropTypes\\": "src/"
+        }
+    }
+}
